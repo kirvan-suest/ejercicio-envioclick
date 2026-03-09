@@ -1,4 +1,4 @@
-# 1-Demoblaze
+# [Nombre del Proyecto]
 
 > Pruebas automatizadas para el sitio Product Store, estas pruebas cubren los principales flujos del negicio.
 
@@ -32,7 +32,7 @@ Qué necesitas tener instalado antes de comenzar:
 - Git
 
 
-## Instalación
+## 🚀 Instalación
 Instrucciones paso a paso para tener el proyecto listo:
 
 1. Clonar el repositorio:
