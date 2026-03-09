@@ -36,4 +36,4 @@ Qué necesitas tener instalado antes de comenzar:
 Instrucciones paso a paso para tener el proyecto listo:
 
 1. Clonar el repositorio:
-   git clone https://github.com
+   git clone [https://github.com] (https://github.com/kirvan-suest/ejercicio-envioclick.git)
