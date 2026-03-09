@@ -1,4 +1,4 @@
-# [Nombre del Proyecto]
+# Demoblaze
 
 > Pruebas automatizadas para el sitio Product Store, estas pruebas cubren los principales flujos del negicio.
 
